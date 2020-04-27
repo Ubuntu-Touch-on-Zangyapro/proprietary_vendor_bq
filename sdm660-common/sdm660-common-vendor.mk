@@ -1084,6 +1084,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libgpustats \
     libsdm-disp-vndapis \
-    embms \
     uceShimService \
     aptxals
